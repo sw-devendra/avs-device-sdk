@@ -10,6 +10,12 @@
 
 ### Mic
 
+- Existing Microphone implementations are
+  - Android Microphone ( https://github.com/sw-devendra/avs-device-sdk/tree/master/ApplicationUtilities/AndroidUtilities )
+  - PortAudio ( https://github.com/sw-devendra/avs-device-sdk/blob/master/SampleApp/src/PortAudioMicrophoneWrapper.cpp )
+- Implementation of MicrophoneInterface ( https://github.com/sw-devendra/avs-device-sdk/blob/master/ApplicationUtilities/Resources/Audio/include/Audio/MicrophoneInterface.h ) 
 
 ### GUI
 
+- GuiRenderer in SampleApp ( https://github.com/sw-devendra/avs-device-sdk/blob/master/SampleApp/src/GuiRenderer.cpp )
+- Implments TemplateRuntimeObserverInterface ( https://github.com/sw-devendra/avs-device-sdk/tree/master/AVSCommon/SDKInterfaces/include/AVSCommon/SDKInterfaces ) 
