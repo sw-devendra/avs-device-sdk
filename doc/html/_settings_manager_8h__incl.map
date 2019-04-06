@@ -1,0 +1,15 @@
+<map id="/home/devendra/alexa/source/avs&#45;device&#45;sdk/Settings/include/Settings/SettingsManager.h" name="/home/devendra/alexa/source/avs&#45;device&#45;sdk/Settings/include/Settings/SettingsManager.h">
+<area shape="rect" id="node6" href="$_log_entry_8h.html" title="AVSCommon/Utils/Logger\l/LogEntry.h" alt="" coords="131,303,307,344"/>
+<area shape="rect" id="node14" href="$_logger_utils_8h.html" title="AVSCommon/Utils/Logger\l/LoggerUtils.h" alt="" coords="711,124,887,165"/>
+<area shape="rect" id="node24" href="$_setting_interface_8h.html" title="SettingInterface.h" alt="" coords="1601,221,1727,247"/>
+<area shape="rect" id="node9" href="$_log_entry_stream_8h.html" title="AVSCommon/Utils/Logger\l/LogEntryStream.h" alt="" coords="5,392,181,433"/>
+<area shape="rect" id="node11" href="$_log_entry_buffer_8h.html" title="AVSCommon/Utils/Logger\l/LogEntryBuffer.h" alt="" coords="83,481,259,523"/>
+<area shape="rect" id="node16" href="$_logger_8h.html" title="AVSCommon/Utils/Logger\l/Logger.h" alt="" coords="711,213,887,255"/>
+<area shape="rect" id="node18" href="$_configuration_node_8h.html" title="AVSCommon/Utils/Configuration\l/ConfigurationNode.h" alt="" coords="753,303,967,344"/>
+<area shape="rect" id="node21" href="$_level_8h.html" title="AVSCommon/Utils/Logger\l/Level.h" alt="" coords="349,392,525,433"/>
+<area shape="rect" id="node22" href="$_log_level_observer_interface_8h.html" title="AVSCommon/Utils/Logger\l/LogLevelObserverInterface.h" alt="" coords="382,303,575,344"/>
+<area shape="rect" id="node23" href="$_sink_observer_interface_8h.html" title="AVSCommon/Utils/Logger\l/SinkObserverInterface.h" alt="" coords="1409,481,1585,523"/>
+<area shape="rect" id="node27" href="$_guarded_value_8h.html" title="AVSCommon/Utils/GuardedValue.h" alt="" coords="1281,310,1511,337"/>
+<area shape="rect" id="node28" href="$_set_setting_result_8h.html" title="Settings/SetSettingResult.h" alt="" coords="1637,310,1821,337"/>
+<area shape="rect" id="node29" href="$_setting_observer_interface_8h.html" title="Settings/SettingObserver\lInterface.h" alt="" coords="1845,303,2013,344"/>
+</map>

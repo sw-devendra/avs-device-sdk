@@ -1,0 +1,12 @@
+<map id="/home/devendra/alexa/source/avs&#45;device&#45;sdk/ACL/include/ACL/Transport/ExchangeHandler.h" name="/home/devendra/alexa/source/avs&#45;device&#45;sdk/ACL/include/ACL/Transport/ExchangeHandler.h">
+<area shape="rect" id="node3" href="$_exchange_handler_context_interface_8h.html" title="ACL/Transport/ExchangeHandler\lContextInterface.h" alt="" coords="347,124,562,165"/>
+<area shape="rect" id="node5" href="$_h_t_t_p2_request_config_8h.html" title="AVSCommon/Utils/HTTP2\l/HTTP2RequestConfig.h" alt="" coords="365,213,544,255"/>
+<area shape="rect" id="node19" href="$_h_t_t_p2_request_interface_8h.html" title="AVSCommon/Utils/HTTP2\l/HTTP2RequestInterface.h" alt="" coords="629,213,808,255"/>
+<area shape="rect" id="node9" href="$_h_t_t_p2_request_type_8h.html" title="HTTP2RequestType.h" alt="" coords="99,303,253,329"/>
+<area shape="rect" id="node11" href="$_h_t_t_p2_request_source_interface_8h.html" title="HTTP2RequestSourceInterface.h" alt="" coords="733,303,949,329"/>
+<area shape="rect" id="node16" href="$_h_t_t_p2_response_sink_interface_8h.html" title="HTTP2ResponseSinkInterface.h" alt="" coords="448,303,659,329"/>
+<area shape="rect" id="node14" href="$_h_t_t_p2_send_data_result_8h.html" title="AVSCommon/Utils/HTTP2\l/HTTP2SendDataResult.h" alt="" coords="881,377,1060,419"/>
+<area shape="rect" id="node15" href="$_h_t_t_p2_send_status_8h.html" title="AVSCommon/Utils/HTTP2\l/HTTP2SendStatus.h" alt="" coords="881,467,1060,508"/>
+<area shape="rect" id="node17" href="$_h_t_t_p2_receive_data_status_8h.html" title="AVSCommon/Utils/HTTP2\l/HTTP2ReceiveDataStatus.h" alt="" coords="146,377,339,419"/>
+<area shape="rect" id="node18" href="$_h_t_t_p2_response_finished_status_8h.html" title="AVSCommon/Utils/HTTP2\l/HTTP2ResponseFinishedStatus.h" alt="" coords="363,377,589,419"/>
+</map>

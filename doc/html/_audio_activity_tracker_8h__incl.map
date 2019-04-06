@@ -1,0 +1,16 @@
+<map id="/home/devendra/alexa/source/avs&#45;device&#45;sdk/AFML/include/AFML/AudioActivityTracker.h" name="/home/devendra/alexa/source/avs&#45;device&#45;sdk/AFML/include/AFML/AudioActivityTracker.h">
+<area shape="rect" id="node7" href="$_capability_configuration_8h.html" title="AVSCommon/AVS/Capability\lConfiguration.h" alt="" coords="1951,213,2145,255"/>
+<area shape="rect" id="node8" href="$_capability_configuration_interface_8h.html" title="AVSCommon/SDKInterfaces\l/CapabilityConfigurationInterface.h" alt="" coords="1645,124,1867,165"/>
+<area shape="rect" id="node10" href="$_context_manager_interface_8h.html" title="AVSCommon/SDKInterfaces\l/ContextManagerInterface.h" alt="" coords="1487,213,1679,255"/>
+<area shape="rect" id="node13" href="$_state_provider_interface_8h.html" title="AVSCommon/SDKInterfaces\l/StateProviderInterface.h" alt="" coords="1907,303,2099,344"/>
+<area shape="rect" id="node16" href="$_requires_shutdown_8h.html" title="AVSCommon/Utils/Requires\lShutdown.h" alt="" coords="868,213,1057,255"/>
+<area shape="rect" id="node19" href="$_executor_8h.html" title="AVSCommon/Utils/Threading\l/Executor.h" alt="" coords="503,213,697,255"/>
+<area shape="rect" id="node27" href="$_channel_8h.html" title="AFML/Channel.h" alt="" coords="1196,221,1316,247"/>
+<area shape="rect" id="node30" href="$_activity_tracker_interface_8h.html" title="AFML/ActivityTrackerInterface.h" alt="" coords="1151,131,1361,158"/>
+<area shape="rect" id="node11" href="$_context_requester_interface_8h.html" title="AVSCommon/SDKInterfaces\l/ContextRequesterInterface.h" alt="" coords="1397,303,1592,344"/>
+<area shape="rect" id="node14" href="$_namespace_and_name_8h.html" title="AVSCommon/AVS/NamespaceAnd\lName.h" alt="" coords="1523,392,1754,433"/>
+<area shape="rect" id="node15" href="$_state_refresh_policy_8h.html" title="AVSCommon/AVS/StateRefresh\lPolicy.h" alt="" coords="1667,303,1882,344"/>
+<area shape="rect" id="node25" href="$_task_thread_8h.html" title="AVSCommon/Utils/Threading\l/TaskThread.h" alt="" coords="285,303,480,344"/>
+<area shape="rect" id="node28" href="$_channel_observer_interface_8h.html" title="AVSCommon/SDKInterfaces\l/ChannelObserverInterface.h" alt="" coords="987,303,1179,344"/>
+<area shape="rect" id="node29" href="$_focus_state_8h.html" title="AVSCommon/AVS/FocusState.h" alt="" coords="1014,399,1229,426"/>
+</map>

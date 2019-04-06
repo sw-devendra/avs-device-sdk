@@ -1,0 +1,28 @@
+<map id="/home/devendra/alexa/source/avs&#45;device&#45;sdk/AVSCommon/Utils/include/AVSCommon/Utils/LibcurlUtils/LibCurlHttpContentFetcher.h" name="/home/devendra/alexa/source/avs&#45;device&#45;sdk/AVSCommon/Utils/include/AVSCommon/Utils/LibcurlUtils/LibCurlHttpContentFetcher.h">
+<area shape="rect" id="node6" href="$_h_t_t_p_content_fetcher_interface_8h.html" title="AVSCommon/SDKInterfaces\l/HTTPContentFetcherInterface.h" alt="" coords="995,139,1208,180"/>
+<area shape="rect" id="node45" href="$_curl_easy_handle_wrapper_8h.html" title="AVSCommon/Utils/LibcurlUtils\l/CurlEasyHandleWrapper.h" alt="" coords="2263,645,2465,687"/>
+<area shape="rect" id="node8" href="$_h_t_t_p_content_8h.html" title="AVSCommon/Utils/HTTPContent.h" alt="" coords="1653,228,1883,255"/>
+<area shape="rect" id="node44" href="$_s_d_k_version_8h.html" title="AVSCommon/Utils/SDKVersion.h" alt="" coords="195,831,415,858"/>
+<area shape="rect" id="node10" href="$_in_process_attachment_8h.html" title="AVSCommon/AVS/Attachment\l/InProcessAttachment.h" alt="" coords="1365,303,1569,344"/>
+<area shape="rect" id="node11" href="$_attachment_8h.html" title="AVSCommon/AVS/Attachment\l/Attachment.h" alt="" coords="1023,392,1227,433"/>
+<area shape="rect" id="node18" href="$_in_process_s_d_s_8h.html" title="AVSCommon/Utils/SDS\l/InProcessSDS.h" alt="" coords="1163,481,1328,523"/>
+<area shape="rect" id="node42" href="$_in_process_attachment_reader_8h.html" title="AVSCommon/AVS/Attachment\l/InProcessAttachmentReader.h" alt="" coords="1593,392,1799,433"/>
+<area shape="rect" id="node43" href="$_in_process_attachment_writer_8h.html" title="AVSCommon/AVS/Attachment\l/InProcessAttachmentWriter.h" alt="" coords="1365,392,1569,433"/>
+<area shape="rect" id="node13" href="$_attachment_reader_8h.html" title="AVSCommon/AVS/Attachment\l/AttachmentReader.h" alt="" coords="1645,645,1849,687"/>
+<area shape="rect" id="node16" href="$_reader_policy_8h.html" title="AVSCommon/Utils/SDS\l/ReaderPolicy.h" alt="" coords="1664,735,1829,776"/>
+<area shape="rect" id="node17" href="$_attachment_writer_8h.html" title="AVSCommon/AVS/Attachment\l/AttachmentWriter.h" alt="" coords="1403,481,1607,523"/>
+<area shape="rect" id="node41" href="$_writer_policy_8h.html" title="WriterPolicy.h" alt="" coords="795,742,899,769"/>
+<area shape="rect" id="node21" href="$_shared_data_stream_8h.html" title="SharedDataStream.h" alt="" coords="1192,571,1336,597"/>
+<area shape="rect" id="node23" href="$_logger_utils_8h.html" title="AVSCommon/Utils/Logger\l/LoggerUtils.h" alt="" coords="1464,735,1640,776"/>
+<area shape="rect" id="node36" href="$_buffer_layout_8h.html" title="BufferLayout.h" alt="" coords="939,653,1045,679"/>
+<area shape="rect" id="node37" href="$_reader_8h.html" title="Reader.h" alt="" coords="1264,653,1339,679"/>
+<area shape="rect" id="node40" href="$_writer_8h.html" title="Writer.h" alt="" coords="1121,653,1189,679"/>
+<area shape="rect" id="node24" href="$_logger_8h.html" title="AVSCommon/Utils/Logger\l/Logger.h" alt="" coords="1492,824,1668,865"/>
+<area shape="rect" id="node26" href="$_configuration_node_8h.html" title="AVSCommon/Utils/Configuration\l/ConfigurationNode.h" alt="" coords="1245,913,1459,955"/>
+<area shape="rect" id="node29" href="$_level_8h.html" title="AVSCommon/Utils/Logger\l/Level.h" alt="" coords="1641,1003,1817,1044"/>
+<area shape="rect" id="node30" href="$_log_entry_8h.html" title="AVSCommon/Utils/Logger\l/LogEntry.h" alt="" coords="2208,913,2384,955"/>
+<area shape="rect" id="node34" href="$_log_level_observer_interface_8h.html" title="AVSCommon/Utils/Logger\l/LogLevelObserverInterface.h" alt="" coords="1483,913,1677,955"/>
+<area shape="rect" id="node35" href="$_sink_observer_interface_8h.html" title="AVSCommon/Utils/Logger\l/SinkObserverInterface.h" alt="" coords="2360,1092,2536,1133"/>
+<area shape="rect" id="node31" href="$_log_entry_stream_8h.html" title="AVSCommon/Utils/Logger\l/LogEntryStream.h" alt="" coords="2223,1003,2399,1044"/>
+<area shape="rect" id="node32" href="$_log_entry_buffer_8h.html" title="AVSCommon/Utils/Logger\l/LogEntryBuffer.h" alt="" coords="1499,1092,1675,1133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="alexaClientSDK::avsCommon::utils::mediaPlayer::MediaPlayerObserverInterface" name="alexaClientSDK::avsCommon::utils::mediaPlayer::MediaPlayerObserverInterface">
+<area shape="rect" id="node2" href="$classalexa_client_s_d_k_1_1capability_agents_1_1alerts_1_1renderer_1_1_renderer.html" title="alexaClientSDK::capability\lAgents::alerts::renderer\l::Renderer" alt="" coords="287,5,466,61"/>
+<area shape="rect" id="node3" href="$classalexa_client_s_d_k_1_1capability_agents_1_1audio_player_1_1_audio_player.html" title="alexaClientSDK::capability\lAgents::audioPlayer::AudioPlayer" alt="" coords="268,86,485,127"/>
+<area shape="rect" id="node4" href="$classalexa_client_s_d_k_1_1capability_agents_1_1bluetooth_1_1_bluetooth.html" title="alexaClientSDK::capability\lAgents::bluetooth::Bluetooth" alt="" coords="283,151,470,193"/>
+<area shape="rect" id="node5" href="$classalexa_client_s_d_k_1_1capability_agents_1_1notifications_1_1_notification_renderer.html" title="alexaClientSDK::capability\lAgents::notifications::\lNotificationRenderer" alt="" coords="287,217,466,273"/>
+<area shape="rect" id="node6" href="$classalexa_client_s_d_k_1_1capability_agents_1_1speech_synthesizer_1_1_speech_synthesizer.html" title="alexaClientSDK::capability\lAgents::speechSynthesizer\l::SpeechSynthesizer" alt="" coords="285,297,468,353"/>
+<area shape="rect" id="node7" href="$classalexa_client_s_d_k_1_1media_player_1_1android_1_1test_1_1_mock_observer.html" title="Mocks the media player observer. " alt="" coords="279,378,474,419"/>
+<area shape="rect" id="node8" href="$classalexa_client_s_d_k_1_1media_player_1_1test_1_1_mock_player_observer.html" title="alexaClientSDK::mediaPlayer\l::test::MockPlayerObserver" alt="" coords="279,443,474,485"/>
+</map>

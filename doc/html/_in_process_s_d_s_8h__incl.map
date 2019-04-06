@@ -1,0 +1,17 @@
+<map id="/home/devendra/alexa/source/avs&#45;device&#45;sdk/AVSCommon/Utils/include/AVSCommon/Utils/SDS/InProcessSDS.h" name="/home/devendra/alexa/source/avs&#45;device&#45;sdk/AVSCommon/Utils/include/AVSCommon/Utils/SDS/InProcessSDS.h">
+<area shape="rect" id="node7" href="$_shared_data_stream_8h.html" title="SharedDataStream.h" alt="" coords="699,124,843,151"/>
+<area shape="rect" id="node11" href="$_logger_utils_8h.html" title="AVSCommon/Utils/Logger\l/LoggerUtils.h" alt="" coords="949,273,1125,315"/>
+<area shape="rect" id="node26" href="$_buffer_layout_8h.html" title="BufferLayout.h" alt="" coords="808,199,915,225"/>
+<area shape="rect" id="node27" href="$_reader_8h.html" title="Reader.h" alt="" coords="425,199,500,225"/>
+<area shape="rect" id="node31" href="$_writer_8h.html" title="Writer.h" alt="" coords="605,199,673,225"/>
+<area shape="rect" id="node13" href="$_logger_8h.html" title="AVSCommon/Utils/Logger\l/Logger.h" alt="" coords="1216,363,1392,404"/>
+<area shape="rect" id="node15" href="$_configuration_node_8h.html" title="AVSCommon/Utils/Configuration\l/ConfigurationNode.h" alt="" coords="926,452,1141,493"/>
+<area shape="rect" id="node18" href="$_level_8h.html" title="AVSCommon/Utils/Logger\l/Level.h" alt="" coords="1723,541,1899,583"/>
+<area shape="rect" id="node19" href="$_log_entry_8h.html" title="AVSCommon/Utils/Logger\l/LogEntry.h" alt="" coords="1317,452,1493,493"/>
+<area shape="rect" id="node24" href="$_log_level_observer_interface_8h.html" title="AVSCommon/Utils/Logger\l/LogLevelObserverInterface.h" alt="" coords="1518,452,1711,493"/>
+<area shape="rect" id="node25" href="$_sink_observer_interface_8h.html" title="AVSCommon/Utils/Logger\l/SinkObserverInterface.h" alt="" coords="1869,631,2045,672"/>
+<area shape="rect" id="node20" href="$_log_entry_stream_8h.html" title="AVSCommon/Utils/Logger\l/LogEntryStream.h" alt="" coords="1421,541,1597,583"/>
+<area shape="rect" id="node22" href="$_log_entry_buffer_8h.html" title="AVSCommon/Utils/Logger\l/LogEntryBuffer.h" alt="" coords="1421,631,1597,672"/>
+<area shape="rect" id="node30" href="$_reader_policy_8h.html" title="ReaderPolicy.h" alt="" coords="94,281,205,307"/>
+<area shape="rect" id="node32" href="$_writer_policy_8h.html" title="WriterPolicy.h" alt="" coords="493,281,597,307"/>
+</map>

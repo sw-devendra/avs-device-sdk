@@ -1,0 +1,10 @@
+<map id="/home/devendra/alexa/source/avs&#45;device&#45;sdk/MediaPlayer/GStreamerMediaPlayer/include/MediaPlayer/IStreamSource.h" name="/home/devendra/alexa/source/avs&#45;device&#45;sdk/MediaPlayer/GStreamerMediaPlayer/include/MediaPlayer/IStreamSource.h">
+<area shape="rect" id="node6" href="$_media_player_interface_8h.html" title="AVSCommon/Utils/MediaPlayer\l/MediaPlayerInterface.h" alt="" coords="489,199,698,240"/>
+<area shape="rect" id="node15" href="$_base_stream_source_8h.html" title="MediaPlayer/BaseStreamSource.h" alt="" coords="1013,124,1235,151"/>
+<area shape="rect" id="node10" href="$_attachment_reader_8h.html" title="AVSCommon/AVS/Attachment\l/AttachmentReader.h" alt="" coords="73,288,277,329"/>
+<area shape="rect" id="node14" href="$_audio_format_8h.html" title="AVSCommon/Utils/AudioFormat.h" alt="" coords="301,295,523,322"/>
+<area shape="rect" id="node13" href="$_reader_policy_8h.html" title="AVSCommon/Utils/SDS\l/ReaderPolicy.h" alt="" coords="91,377,256,419"/>
+<area shape="rect" id="node16" href="$_source_interface_8h.html" title="MediaPlayer/SourceInterface.h" alt="" coords="1043,206,1245,233"/>
+<area shape="rect" id="node17" href="$_pipeline_interface_8h.html" title="MediaPlayer/PipelineInterface.h" alt="" coords="1043,295,1250,322"/>
+<area shape="rect" id="node19" href="$_requires_shutdown_8h.html" title="AVSCommon/Utils/Requires\lShutdown.h" alt="" coords="677,288,867,329"/>
+</map>
